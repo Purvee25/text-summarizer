@@ -15,3 +15,6 @@ from summarizer import TextSummarizer
 ts = TextSummarizer()
 summary = ts.summarize(text, ratio=0.3)
 ```
+
+## License
+MIT License
